@@ -3,6 +3,6 @@
 Estudant desenvolvimento de projetos com o uso de diversas tecnologias, para desenvolvimento mobile, web, automações e outros.
 
 ### Detalhes
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael.sdpg&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsdpg&show_icons=true&theme=dark)
 ### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafael.sdpg&repo=pedrogithub1406)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelsdpg&repo=pedrogithub1406)](https://github.com/anuraghazra/github-readme-stats)
